@@ -1,0 +1,98 @@
+[
+    {
+        "id":0,
+        "icon": "pics/all-over-highlight.png"
+    },
+    {
+        "id":1,
+        "icon": "pics/default-abs.png"
+    },
+    {
+        "id":2,
+        "icon": "pics/default-finger.png"
+    },
+    {
+        "id":3,
+        "icon": "pics/dip-active.png"
+    },
+    {
+        "id":4,
+        "icon": "pics/dip-highlight.png"
+    },
+    {
+        "id":5,
+        "icon": "pics/epigastrium-active.png"
+    },
+    {
+        "id":6,
+        "icon": "pics/epigastrium-highlight.png"
+    },
+    {
+        "id":7,
+        "icon": "pics/llq-active.png"
+    },
+    {
+        "id":8,
+        "icon": "pics/llq-highlight.png"
+    },
+    {
+        "id":9,
+        "icon": "pics/luq-active.png"
+    },
+    {
+        "id":10,
+        "icon": "pics/luq-highlight.png"
+    },
+    {
+        "id":11,
+        "icon": "pics/mcp-active.png"
+    },
+    {
+        "id":12,
+        "icon": "pics/mcp-highlight.png"
+    },
+    {
+        "id":13,
+        "icon": "pics/others-highlight.png"
+    },
+    {
+        "id":14,
+        "icon": "pics/pip-active.png"
+    },
+    {
+        "id":15,
+        "icon": "pics/pip-highlight.png"
+    },
+    {
+        "id":16,
+        "icon": "pics/rlq-active.png"
+    },
+    {
+        "id":17,
+        "icon": "pics/rlq-highlight.png"
+    },
+    {
+        "id":18,
+        "icon": "pics/ruq-active.png"
+    },
+    {
+        "id":19,
+        "icon": "pics/ruq-highlight.png"
+    },
+    {
+        "id":20,
+        "icon": "pics/suprapubic-active.png"
+    },
+    {
+        "id":21,
+        "icon": "pics/suprapubic-highlight.png"
+    },
+    {
+        "id":22,
+        "icon": "pics/umbilicus-active.png"
+    },
+    {
+        "id":23,
+        "icon": "pics/umbilicus-highlight.png"
+    }
+]
