@@ -104,7 +104,7 @@ const Finger = () => {
                     <button
                         id="btn9"
                         onClick={() => {showpipactive(!hidden14); showpiphighlight(!hidden15)}}
-                        className="h-9 w-9 absolute top-[18rem] left-[8rem]"
+                        className="h-9 w-8 absolute top-[18rem] left-[23rem]"
                     ></button>
                     <button
                         id="btn10"
@@ -124,7 +124,7 @@ const Finger = () => {
                     <button
                         id="btn13"
                         onClick={() => {showmcpactive(!hidden11); showmcphighlight(!hidden12)}}
-                        className="h-9 w-8 absolute top-[18rem] left-[23rem]"
+                        className="h-9 w-9 absolute top-[18rem] left-[8rem]"
                     ></button>
                     <button
                         id="btn14"
