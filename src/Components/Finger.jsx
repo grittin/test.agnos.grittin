@@ -133,7 +133,7 @@ const Finger = () => {
                     ></button>
                     <button
                         id="btn15"
-                        onClick={() => {showothershighlight(!hidden11); showdiphighlight(!hidden4); showpiphighlight(!hidden12)
+                        onClick={() => {showothershighlight(!hidden13); showdiphighlight(!hidden4); showpiphighlight(!hidden12)
                             showmcphighlight(!hidden15)}}
                         className="rounded-full h-12 w-80 absolute top-[36rem] left-[5rem]"
                     ></button>

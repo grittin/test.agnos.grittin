@@ -151,6 +151,6 @@ const Abs = () => {
                 className="rounded-full h-12 w-40 absolute top-[35rem] left-[9rem]"
             ></button>
         </div>
-    )
+    )        
 };
 export default Abs;
